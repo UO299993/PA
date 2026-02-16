@@ -14,4 +14,5 @@ public class Entity {
 	// NOTA: se pueden generar getters y setters de forma automatica usando lombok:  
 	// https://www.sitepoint.com/declutter-pojos-with-lombok-tutorial/
 	// http://www.baeldung.com/intro-to-project-lombok
+	// Prueba PA Ejercicio 1
 }
