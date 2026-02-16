@@ -15,4 +15,5 @@ public class Entity {
 	// https://www.sitepoint.com/declutter-pojos-with-lombok-tutorial/
 	// http://www.baeldung.com/intro-to-project-lombok
 	// Prueba PA Ejercicio 1
+	// Prueba PA ejercicio 2 en main
 }
